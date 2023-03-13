@@ -1,2 +1,3 @@
-# PP_Test01
-23프로그래밍 패턴
+# 유한대학교 VR게임앱학과 Programming Pattern
+* 학번 
+* 이름
