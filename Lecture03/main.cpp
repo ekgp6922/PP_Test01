@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout<<"최윤교님이 진노하셨다."<<std::endl;
+	std::cout<<"!!오찬영!! 프로그램입니다"<<std::endl;
 	return 0;
 }
